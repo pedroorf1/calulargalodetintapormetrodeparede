@@ -1,4 +1,4 @@
-# Calular galão de tinta porMetroDeParede
+# Calular galão de tinta por metro de parede
 
 Regras de negócio
 
