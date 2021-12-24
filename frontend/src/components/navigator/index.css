@@ -1,0 +1,12 @@
+.container{
+
+    display: flex;
+    flex-direction: row;
+    margin:0 auto;
+    flex: 2;
+    width:650px;
+    min-height:80vh;
+    background-color: blanchedalmond;
+    background-image: url("./resources/page-turner.svg");
+
+}

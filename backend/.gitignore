@@ -1,0 +1,6 @@
+.env
+node_modules
+bd
+models
+public
+.history

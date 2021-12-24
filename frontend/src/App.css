@@ -1,0 +1,17 @@
+@font-face {
+	font-family: Angelina;
+	src: url(./components/source/fonts/Angelisa.ttf);
+}
+@font-face {
+    font-family: Montana;
+	src: url(./components/source/fonts/Montana.ttf);
+ }
+
+
+.App{
+
+    flex-direction:column;
+    justify-content:space-between;
+    background-color:cornsilk;
+ 
+}

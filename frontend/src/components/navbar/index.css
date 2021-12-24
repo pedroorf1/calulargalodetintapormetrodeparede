@@ -1,0 +1,63 @@
+.navbar{
+
+    width:100%;
+    background-color: darkslategrey;
+    display:flex;
+    align-items: center;
+    flex-direction: row;
+
+}
+
+
+.header{
+
+    display:flex;
+    align-items: center;
+    color: #fff;
+    vertical-align: middle;
+    border-bottom: 5px solid #fff;
+    margin: 0 10px 30px 10px;
+    padding-right: 25px;
+
+}
+
+.t,.t2,.i,.n{
+
+    padding: 2px !important;
+    font-size:2em;
+    font-weight:700;
+}
+
+.t{
+    color:#fff;
+}
+.i{
+    color:#ff2525;
+}
+.n{
+    color:#00bb19;
+}
+.t2{
+    color:#0070b1;
+}
+
+.registered{
+
+    margin:0 !important;
+    padding:0 !important;
+    vertical-align: top;
+
+}
+
+
+.navbar span{
+
+    padding-left: 15px;
+
+}
+
+.navbar .material-icons{
+
+    padding-right: 10px;
+    margin-top: 5px;
+}
