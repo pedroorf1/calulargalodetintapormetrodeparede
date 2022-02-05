@@ -1,4 +1,4 @@
-# Calula galão de tinta por metro de parede
+# Calcula galão de tinta por metro de parede
 
 Regras de negócio
 
